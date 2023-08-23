@@ -1,0 +1,56 @@
+.web {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-variant: small-caps;
+    font-size: x-large;
+    padding-top: 20px;
+}
+
+.smk {
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps;
+    font-weight: bolder;
+    color: blue;
+    font-size: x-large;
+}
+
+.smk2{
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    
+}
+
+.ib1 {
+    color: yellow;
+    background-color: yellowgreen;
+    line-height: 45px;
+}
+
+.ib2 {
+    color: chartreuse;
+    background-color: black;
+    line-height: 45px;
+
+}
+
+.ib3 {
+    color: red;
+    background-color: royalblue;
+    line-height: 45px;
+}
+
+.copy{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.name {
+    font-family: 'Courier New', Courier, monospace;
+    color: yellowgreen;
+    text-align: center;
+    line-height: 40px;
+}
+
+.home{
+    color: aqua;
+    background-color: black;
+}
